@@ -10,7 +10,7 @@ public class Produto
     public Produto(string nome, double preco)
     {
         this.nome = nome;
-        this.preco = preco;
+       this.preco = preco;
     }
 
     public string GetNome()
