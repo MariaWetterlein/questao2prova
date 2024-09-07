@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aluno/Documentos/TADS/questao_2_prova/questao_2_prova.csproj": {}
+    "/home/aluno/Documentos/TADS/questao_2_prova/questao2prova/questao_2_prova.csproj": {}
   },
   "projects": {
-    "/home/aluno/Documentos/TADS/questao_2_prova/questao_2_prova.csproj": {
+    "/home/aluno/Documentos/TADS/questao_2_prova/questao2prova/questao_2_prova.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aluno/Documentos/TADS/questao_2_prova/questao_2_prova.csproj",
+        "projectUniqueName": "/home/aluno/Documentos/TADS/questao_2_prova/questao2prova/questao_2_prova.csproj",
         "projectName": "questao_2_prova",
-        "projectPath": "/home/aluno/Documentos/TADS/questao_2_prova/questao_2_prova.csproj",
+        "projectPath": "/home/aluno/Documentos/TADS/questao_2_prova/questao2prova/questao_2_prova.csproj",
         "packagesPath": "/home/aluno/.nuget/packages/",
-        "outputPath": "/home/aluno/Documentos/TADS/questao_2_prova/obj/",
+        "outputPath": "/home/aluno/Documentos/TADS/questao_2_prova/questao2prova/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aluno/.nuget/NuGet/NuGet.Config"
